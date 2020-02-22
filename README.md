@@ -24,4 +24,4 @@ int main()
         cout<< sayilar[i];
         i--;
     }
-}```
+}
